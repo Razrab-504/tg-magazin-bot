@@ -1,0 +1,4 @@
+aiogram==3.0.0b7
+SQLAlchemy>=2.0
+psycopg2-binary
+python-dotenv
